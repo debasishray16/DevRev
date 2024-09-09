@@ -50,7 +50,7 @@ the [contributing guidelines](docs/CONTRIBUTING.md).
 SVG design is contributed by [Nazmul Hasan](https://github.com/nazmulweb)
 
 
-![](https://raw.githubusercontent.com/debasishray16/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/debasishray16/cf-stats/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/rating.svg)
